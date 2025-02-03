@@ -40,7 +40,7 @@ let handler = async (_0xb33ad2, {
     header: "*`◉ %category`*",
     body: " ║\n╠ ○ *%cmd* %islimit %isPremium",
     footer: "╚• \n\n",
-    after: "*ᴘʀɪɴᴄᴇ ᴍᴅ*\n"
+    after: "*꯴⃘፝𝗔𝗬α͜͡𝗭ꨴ🖤꤬ິ̶*\n"
   };
   try {
     _0xb33ad2.react("⏳");
@@ -173,7 +173,7 @@ let handler = async (_0xb33ad2, {
         mentionedJid: [_0xb33ad2.sender],
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120363199257221654@newsletter",
+          newsletterJid: "120363174979265795@newsletter",
           newsletterName: global.author,
           serverMessageId: -1
         },
